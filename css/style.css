@@ -1,0 +1,47 @@
+.music{
+    font-family: Vivaldi!important;
+    font-size: 25px;
+}
+.anim{
+    margin: auto!important;
+}
+.image1{
+    width: 50px;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+}
+nav{
+    font-size: 20px!important;
+}
+.liste{
+    margin-top: 20px;
+}
+table{
+    font-size: 20px!important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif!important;
+}
+.titre{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif!important;
+    font-style: italic;
+}
+.bouton1{
+    margin: auto!important;
+    text-align: center!important;
+    padding-bottom: 20px!important;
+    padding-top: 50px!important;
+}
+.letitre{
+    color: white!important;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+form{
+    margin-top: 30px!important;
+    font-size: 20px!important;
+}
+.lien{
+    text-decoration: none!important;
+    color: black;
+}
